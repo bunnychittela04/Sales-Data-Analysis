@@ -1,0 +1,10 @@
+Product,Region,Units_Sold,Unit_Price
+Laptop,North,100,60000
+Mobile,South,250,15000
+Tablet,East,80,25000
+Laptop,West,60,60000
+Mobile,North,200,15000
+Tablet,South,40,25000
+Laptop,East,120,60000
+Mobile,West,180,15000
+Tablet,North,70,25000
